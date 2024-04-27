@@ -7,3 +7,4 @@ Repositório da disciplina de Introdução da Pós de DevOps
 
 # 2. HotFix
 
+# 3. HotFix
